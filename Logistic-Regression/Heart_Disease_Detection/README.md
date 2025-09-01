@@ -49,7 +49,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```
 ├── heart_v2.csv               # Dataset file
-├── heart_disease_analysis.py  # Main model notebook
+├── model_train.ipynb  # Main model notebook
 └── README.md                  # This file
 ```
 
