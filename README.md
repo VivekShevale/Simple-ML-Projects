@@ -9,15 +9,15 @@ The goal of this repo is to build a strong foundation by implementing ML algorit
 
 ```
 
-simple-ml-projects/
+Simple-ML-Projects/
 │
-├── linear-regression/
+├── Linear-Regression/
 │   ├── Advertising_Sales_Prediction/
 │   ├── Boston_Housing_Price_Prediction/
 │   ├── Customer_Spending_Prediction/
 │   └── Medical_Insurance_Cost_Prediction/
 │
-└── logistic-regression/
+└── Logistic-Regression/
     ├── Breast_Cancer_Prediction/
     ├── Diabetes_Prediction/
     ├── Heart_Disease_Detection/
@@ -43,7 +43,7 @@ simple-ml-projects/
 
    - for example:
    ```bash
-   cd linear-regression/Advertising_Sales_Prediction/
+   cd Linear-Regression/Advertising_Sales_Prediction/
    
 4. Run the notebook/script.
 
