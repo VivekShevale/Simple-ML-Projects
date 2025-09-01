@@ -53,7 +53,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```
 ├── insurance.csv              # Dataset file
-├── medical_cost_analysis.ipynb   # Main model notebook
+├── model_train.ipynb   # Main model notebook
 └── README.md                  # This file
 ```
 
