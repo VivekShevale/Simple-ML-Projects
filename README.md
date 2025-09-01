@@ -9,7 +9,7 @@ The goal of this repo is to build a strong foundation by implementing ML algorit
 
 ```
 
-ml-projects/
+simple-ml-projects/
 │
 ├── linear-regression/
 │   ├── Advertising_Sales_Prediction/
