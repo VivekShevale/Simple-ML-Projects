@@ -17,7 +17,7 @@ simple-ml-projects/
 │   ├── Customer_Spending_Prediction/
 │   └── Medical_Insurance_Cost_Prediction/
 │
-├── logistic-regression/
+└── logistic-regression/
     ├── Breast_Cancer_Prediction/
     ├── Diabetes_Prediction/
     ├── Heart_Disease_Detection/
@@ -36,15 +36,16 @@ simple-ml-projects/
 ## How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/ml-projects.git
-   cd ml-projects
+   git clone https://github.com/VivekShevale/Simple-ML-Projects.git
+   cd Simple-ML-Projects
 
 2. Navigate to a specific project folder
 
+   - for example:
    ```bash
    cd linear-regression/Advertising_Sales_Prediction/
    
-3. Run the notebook/script.
+4. Run the notebook/script.
 
 ## Project Highlights
 
@@ -59,7 +60,7 @@ Each **project folder** contains:
 
 * `README.md` → Project description, dataset details, results.
 * `.csv` → Required datasets.
-* Code files (`.ipynb`).
+* Model trained files (`model_train.ipynb`).
 
 ## Contact
 
