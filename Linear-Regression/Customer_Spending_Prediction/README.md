@@ -50,7 +50,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```
 ├── Ecommerce Customers    # Dataset file
-├── linear_regression_analysis.ipynb    # Main analysis script
+├── model_train.ipynb    # Main model notebook
 └── README.md                  # This file
 ```
 
