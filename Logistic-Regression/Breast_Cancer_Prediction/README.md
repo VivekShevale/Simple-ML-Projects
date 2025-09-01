@@ -60,7 +60,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Project Structure
 
 ```
-├── breast_cancer_analysis.py  # Main model notebook
+├── model_train.ipynb  # Main model notebook
 └── README.md                  # This file
 ```
 
