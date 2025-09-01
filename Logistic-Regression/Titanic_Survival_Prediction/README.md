@@ -63,7 +63,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```
 ├── titanic_train.csv          # Training dataset
-├── titanic_survival_analysis.py # Main model notebook
+├── model_train.ipynb # Main model notebook
 └── README.md                  # This file
 ```
 
