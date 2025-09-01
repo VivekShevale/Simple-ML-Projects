@@ -47,7 +47,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```
 ├── Advertising.csv           # Dataset file
-├── advertising_analysis.ipynb   # Main analysis script
+├── model_train.ipynb   # Main analysis script
 └── README.md                # This file
 ```
 
