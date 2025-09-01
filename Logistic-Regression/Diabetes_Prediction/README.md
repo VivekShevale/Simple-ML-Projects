@@ -55,7 +55,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```
 ├── diabetes.csv              # Dataset file
-├── diabetes_analysis.py     # Main model notebook
+├── model_train.ipynb     # Main model notebook
 └── README.md                # This file
 ```
 
