@@ -62,7 +62,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ```
 ├── BostonHousing.csv          # Dataset file
-├── boston_housing_analysis.ipynb # Main model notebook
+├── model_train.ipynb # Main model notebook
 └── README.md                  # This file
 ```
 
